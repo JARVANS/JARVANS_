@@ -222,6 +222,10 @@
 .footer img {
 	margin:10px 0 0 620px;
 }
+.footer .sty{
+	position:relative;
+	top:-20px;
+}
 
 .footer .fot{
 	height:180px;
