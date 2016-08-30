@@ -166,6 +166,7 @@
 	height:400px;
 }
 .menu .font{
+	margin-left:-40px;
 	font-size:30px;
 	text-align:center;
 	line-height:150px;
